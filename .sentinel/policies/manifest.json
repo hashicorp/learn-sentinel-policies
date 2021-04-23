@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "policy",
+			"source": "./restrict-aws-instance-type.sentinel",
+			"sourceSum": "",
+			"dest": "/Users/dos/Desktop/hashicorp/learn-sentinel-policies/restrict-aws-instance-type.sentinel"
+		}
+	]
+}
