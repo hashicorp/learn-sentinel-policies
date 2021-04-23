@@ -3,3 +3,7 @@ mock "tfplan/v2" {
     source = "mock-tfplan-v2.sentinel"
   }
 }
+
+policy "restrict-s3-buckets" {
+    enforcement_level = "hard-mandatory"
+}
